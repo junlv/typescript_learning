@@ -1,4 +1,4 @@
-# 调试环境搭建 
+# debug env setup 调试环境搭建 
 
 
 学习使用typescript过程中 我使用Visual Studio Code 来作为调试工具,VS Code调试单个TS文件非常方便

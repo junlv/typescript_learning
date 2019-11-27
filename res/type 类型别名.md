@@ -1,4 +1,4 @@
-# type 
+# type  类型别名
 
 TypeScript可以通过type关键字给类型重命
 
