@@ -1,0 +1,23 @@
+{
+  "name": "typescript_learning",
+  "version": "1.0.0",
+  "description": "typescript learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junlv/typescript_learning.git"
+  },
+  "author": "junlv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junlv/typescript_learning/issues"
+  },
+  "homepage": "https://github.com/junlv/typescript_learning#readme",
+  "dependencies": {
+    "ts-node": "^8.5.2",
+    "typescript": "^3.7.2"
+  }
+}
